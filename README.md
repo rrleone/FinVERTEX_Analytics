@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="09_Portfolio/00_FinVERTEX_Capa.png" alt="FinVERTEX Analytics — capa do projeto" width="100%">
-
 # FinVERTEX Analytics
 
 ### Inteligência Financeira · Business Intelligence · Data Analytics
@@ -31,6 +29,10 @@ O projeto contempla seis perspectivas da gestão financeira: visão executiva, f
 Também explora a aplicação de Inteligência Artificial no processo de Data Quality, com um agente desenvolvido em Python e integrado ao Google Gemini.
 
 **Fluxo de trabalho:** Dados → Data Quality → ETL → PostgreSQL → SQL Analytics → Modelagem → DAX → Dashboards → Insights.
+
+<p align="center">
+  <img src="09_Portfolio/00_FinVERTEX_Capa.png" alt="FinVERTEX Analytics — capa do projeto" width="100%">
+</p>
 
 ## Objetivos de negócio
 
