@@ -1,400 +1,201 @@
-&#x20;\<div align="center">
+<div align="center">
 
-\<img src="03_Images/Capa_FinVERTEX_Analytics.png" alt="FinVERTEX Analytics" width="100%"/>
+<img src="09_Portfolio/00_FinVERTEX_Capa.png" alt="FinVERTEX Analytics — capa do projeto" width="100%">
 
 # FinVERTEX Analytics
 
 ### Inteligência Financeira · Business Intelligence · Data Analytics
 
-Projeto de Business Intelligence desenvolvido por Renato Leone.
+Projeto de Business Intelligence desenvolvido por **Renato Leone**.
 
-\<img src="[https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)"/> \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sqlite\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/Data%20Quality-008577?style=for-the-badge](https://img.shields.io/badge/Data%20Quality-008577?style=for-the-badge)"/> \<img src="[https://img.shields.io/badge/Business%20Intelligence-0078D4?style=for-the-badge](https://img.shields.io/badge/Business%20Intelligence-0078D4?style=for-the-badge)"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
+<img src="https://img.shields.io/badge/Data%20Quality-008577?style=for-the-badge" alt="Data Quality">
+<img src="https://img.shields.io/badge/Business%20Intelligence-0078D4?style=for-the-badge" alt="Business Intelligence">
 
 **Transformando dados financeiros em indicadores, análises e insights para apoiar decisões estratégicas.**
 
-\</div>
+</div>
 
 ---
 
-## Visão geral do projeto
+## Visão geral
 
-O **FinVERTEX Analytics** é um projeto de Business Intelligence voltado à análise financeira, desenvolvido para demonstrar como a integração de dados, a qualidade da informação e a análise de indicadores podem apoiar o acompanhamento e a gestão financeira de uma organização.
+O **FinVERTEX Analytics** é um projeto de Business Intelligence voltado à análise financeira. A solução integra preparação e validação de dados, processamento com Python, armazenamento em PostgreSQL, consultas SQL, modelagem analítica e dashboards interativos no Power BI.
 
-A solução contempla diferentes perspectivas financeiras, incluindo receitas, despesas, fluxo de caixa, orçamento, custos, centros de custo e folha de pagamento.
+O projeto contempla seis perspectivas da gestão financeira: visão executiva, fluxo de caixa, receitas e despesas, orçamento, custos e centros de custo, e folha de pagamento.
 
-O projeto percorre um fluxo analítico que envolve preparação e validação dos dados, processamento com Python, armazenamento em PostgreSQL, consultas SQL, modelagem de dados e desenvolvimento de dashboards interativos no Power BI.
+Também explora a aplicação de Inteligência Artificial no processo de Data Quality, com um agente desenvolvido em Python e integrado ao Google Gemini.
 
-Como diferencial, o projeto também explora a aplicação de Inteligência Artificial no processo de Data Quality, por meio de um agente desenvolvido em Python e integrado ao Google Gemini.
+**Fluxo de trabalho:** Dados → Data Quality → ETL → PostgreSQL → SQL Analytics → Modelagem → DAX → Dashboards → Insights.
 
-**DATA ENGINEERING · DATA QUALITY · FINANCIAL ANALYTICS · BUSINESS INTELLIGENCE**
+## Objetivos de negócio
 
-Dados → Qualidade → ETL → PostgreSQL → Análises → Indicadores → Dashboards → Insights
-
----
-
-## Problema de negócio e objetivos
-
-A gestão financeira precisa acompanhar diferentes dimensões da operação para compreender os resultados, controlar despesas, monitorar o fluxo de caixa e avaliar a execução orçamentária.
-
-Quando essas informações são analisadas isoladamente, torna-se mais difícil identificar variações, compreender a composição dos custos e obter uma visão consolidada do desempenho financeiro.
-
-O FinVERTEX Analytics busca estruturar essas informações em um ambiente analítico integrado.
-
-**Objetivos do projeto:**
-
+- Consolidar indicadores de desempenho financeiro.
 - Acompanhar receitas, despesas e resultado financeiro.
 - Analisar entradas, saídas e movimentações de caixa.
-- Avaliar a evolução financeira ao longo dos períodos.
-- Comparar valores orçados e realizados.
-- Identificar desvios e variações orçamentárias.
-- Analisar custos por centro de custo e categoria de conta.
-- Acompanhar indicadores relacionados à folha de pagamento.
-- Aplicar validações de Data Quality para aumentar a confiabilidade dos dados.
-- Explorar a utilização de IA para apoiar processos de tratamento e validação de informações.
-- Desenvolver dashboards para apoiar decisões gerenciais.
+- Avaliar orçamento, realizado e desvios.
+- Identificar a distribuição e a concentração dos custos.
+- Acompanhar os custos relacionados à folha de pagamento.
+- Aplicar validações de qualidade para aumentar a confiabilidade dos dados.
+- Demonstrar o uso responsável de IA como apoio ao trabalho analítico.
 
----
+## Dados e escopo
 
-## Dados utilizados
-
-A base utilizada foi desenvolvida para fins de estudo, simulação e portfólio, representando informações de uma operação financeira.
-
-**Características da base:**
-
-- **Origem:** dados simulados.
-- **Segmento:** gestão financeira.
+- **Origem:** dados simulados para estudo e demonstração.
+- **Domínio:** gestão financeira.
+- **Período principal analisado:** 2024–2026.
 - **Banco de dados:** PostgreSQL.
-- **Processamento:** Python e SQL.
-- **Finalidade:** análise financeira e desenvolvimento de Business Intelligence.
-- **Período de referência:** 2024 a 2026.
+- **Processamento e validação:** Python e SQL.
+- **Visualização:** Power BI Desktop.
 
-### Tabelas utilizadas
+Entre as estruturas utilizadas estão dimensões de calendário, funcionário, cliente, fornecedor, centro de custo e plano de contas, além de fatos de lançamentos financeiros, fluxo de caixa e orçamento.
 
-| Tabela                         | Descrição                                      |
-| ------------------------------ | ---------------------------------------------- |
-| `dim_calendario`               | Dimensão de datas e períodos                   |
-| `dim_funcionario`              | Cadastro e informações dos funcionários        |
-| `dim_cliente`                  | Informações cadastrais dos clientes            |
-| `dim_fornecedor`               | Informações dos fornecedores                   |
-| `dim_centro_custo`             | Classificação dos centros de custo             |
-| `dim_plano_contas`             | Estrutura e classificação do plano de contas   |
-| `fato_lancamentos_financeiros` | Lançamentos de receitas e despesas             |
-| `fato_fluxo_caixa`             | Movimentações financeiras de entradas e saídas |
-| `fato_orcamento`               | Informações de planejamento orçamentário       |
+## Tecnologias
 
----
-
-## Ferramentas e tecnologias
-
-| Tecnologia              | Aplicação                                     |
-| ----------------------- | --------------------------------------------- |
-| Python                  | Processamento, automação e validação de dados |
-| Pandas                  | Manipulação e transformação de dados          |
-| Google Gemini 2.5 Flash | Apoio inteligente à análise de dados          |
-| Google AI Studio        | Integração com o modelo Gemini                |
-| PostgreSQL              | Armazenamento e organização dos dados         |
-| SQL                     | Consultas, validações e análises financeiras  |
-| Power BI Desktop        | Desenvolvimento dos dashboards                |
-| Power Query (M)         | Preparação e transformação dos dados          |
-| DAX                     | Criação de medidas e indicadores              |
-| Modelagem de dados      | Integração das dimensões e tabelas fato       |
-
----
+| Tecnologia | Aplicação no projeto |
+|---|---|
+| Python e Pandas | Processamento, transformação e validação de dados |
+| Google Gemini 2.5 Flash / Google AI Studio | Apoio inteligente ao processo de Data Quality |
+| PostgreSQL | Armazenamento e organização dos dados |
+| SQL | Consultas, validações e análises financeiras |
+| Power Query (M) | Preparação e transformação no Power BI |
+| DAX | Medidas e indicadores financeiros |
+| Power BI Desktop | Dashboards e exploração analítica |
 
 ## Etapas do projeto
 
-### 1. Perfilamento e qualidade dos dados
-
-Foi realizada uma avaliação das bases para compreender suas estruturas e identificar ocorrências que poderiam comprometer a análise financeira.
-
-As verificações contemplaram:
-
-- Quantidade de registros e colunas.
-- Tipos de dados.
-- Valores nulos e inválidos.
-- Duplicidade de registros.
-- Unicidade das chaves.
-- Integridade referencial entre tabelas.
-- Consistência de datas e valores financeiros.
-- Conformidade com regras de negócio.
-
-### 2. Tratamento e transformação dos dados
-
-O tratamento foi estruturado utilizando Python e processos de ETL, considerando as necessidades de padronização e preparação das informações.
-
-As principais atividades envolveram:
-
-- Leitura e processamento dos arquivos de origem.
-- Padronização de informações.
-- Tratamento de inconsistências.
-- Aplicação de regras de negócio.
-- Preparação das estruturas para armazenamento.
-- Validação dos dados processados.
-
-### 3. ETL e integração com Inteligência Artificial
-
-Foi desenvolvido um fluxo de processamento de dados que explora a integração entre Python e recursos de IA generativa.
-
-O projeto utiliza o Google Gemini 2.5 Flash, por meio do Google AI Studio, como apoio à interpretação e ao tratamento de informações.
-
-A proposta é utilizar a IA para acelerar tarefas específicas do processo, mantendo a responsabilidade do analista na definição das regras, validação das respostas e aprovação dos resultados.
-
-### 4. Agente de IA para Data Quality
-
-Foi desenvolvido um agente de Data Quality em Python integrado ao Gemini 2.5 Flash.
-
-O agente foi concebido para apoiar a análise de arquivos e identificar possíveis problemas de qualidade, produzindo avaliações que auxiliam o processo de validação dos dados.
-
-A solução demonstra a aplicação prática de Inteligência Artificial em atividades de preparação e controle da qualidade das informações.
-
-### 5. Banco de dados e SQL Analytics
-
-Os dados foram organizados no PostgreSQL, utilizando estruturas dimensionais e tabelas fato para integrar as informações financeiras.
-
-O SQL foi utilizado para consultas, validações e análises necessárias à construção dos indicadores e à verificação dos resultados.
-
-### 6. Modelagem de dados
-
-Foi estruturado um modelo analítico para integrar as diferentes perspectivas financeiras.
-
-A modelagem contempla relacionamentos entre calendário, plano de contas, centros de custo, funcionários e tabelas de movimentações financeiras.
-
-Essa organização permite explorar os indicadores por diferentes períodos, categorias e dimensões de negócio.
-
-### 7. Indicadores e medidas DAX
-
-Foram desenvolvidas medidas para acompanhar o desempenho financeiro e apoiar a análise gerencial.
-
-Entre os principais indicadores:
-
-- Receita Total.
-- Despesas Totais.
-- Resultado Financeiro.
-- Índice de Despesas sobre Receitas.
-- Entradas de Caixa.
-- Saídas de Caixa.
-- Saldo Líquido de Caixa.
-- Valores Orçados.
-- Valores Realizados.
-- Desvio Orçamentário.
-- Percentual de Execução Orçamentária.
-- Custos por Centro de Custo.
-- Indicadores da Folha de Pagamento.
-
-Os indicadores permitem analisar resultados, comparar períodos, acompanhar variações e identificar oportunidades de melhoria.
-
----
+1. **Data Profiling e Data Quality** — avaliação de estrutura, tipos, nulos, duplicidades, chaves, integridade referencial e consistência.
+2. **ETL com Python** — leitura, padronização, tratamento e preparação das bases.
+3. **Agente de IA para Data Quality** — apoio à análise de arquivos com Python e Gemini, mantendo a validação final sob responsabilidade do analista.
+4. **PostgreSQL e SQL Analytics** — armazenamento, consultas e verificações dos dados.
+5. **Modelagem dimensional** — integração de dimensões e tabelas fato para análise por período e perspectiva de negócio.
+6. **Indicadores e DAX** — criação de medidas para desempenho financeiro, fluxo de caixa, orçamento, custos e folha.
+7. **Dashboards e insights** — apresentação dos resultados em seis páginas analíticas.
 
 ## Dashboards
 
-O relatório foi estruturado em seis páginas analíticas, cada uma dedicada a uma perspectiva da gestão financeira.
+As seis páginas do relatório estão apresentadas abaixo. Cada imagem corresponde à página respectiva do Power BI.
 
 ### 01 — Visão Financeira Executiva
 
-Apresenta uma visão consolidada dos principais indicadores financeiros.
+Visão consolidada de receitas, despesas, resultado financeiro, caixa e principais insights.
 
-
-
-**Principais elementos:**
-
-- Receita Total.
-- Despesas Totais.
-- Resultado Financeiro.
-- Saldo de Caixa.
-- Evolução Financeira por Quadrimestre.
-- Movimentação de Caixa por Quadrimestre.
-- Despesas por Categoria de Conta.
-- Insights sobre desempenho financeiro, estrutura de despesas e posição de caixa.
+<p align="center">
+  <img src="09_Portfolio/01_FinVERTEX_Visa%E2%95%A0%C3%A2o%20Financeira%20Executiva.png" alt="01 — Visão Financeira Executiva" width="100%">
+</p>
 
 ### 02 — Fluxo de Caixa
 
-Apresenta o comportamento das movimentações financeiras e a evolução do fluxo líquido de caixa.
+Entradas, saídas, conciliação e evolução do fluxo líquido de caixa.
 
-
-
-**Principais análises:**
-
-- Entradas e Saídas de Caixa.
-- Saldo Líquido do Período.
-- Saldo Acumulado.
-- Movimentações por Status de Conciliação.
-- Evolução Mensal do Saldo Líquido de Caixa.
-- Evolução Acumulada do Fluxo Líquido por Quadrimestre.
+<p align="center">
+  <img src="09_Portfolio/02_FinVERTEX_%20Fluxo%20de%20Caixa.png" alt="02 — Fluxo de Caixa" width="100%">
+</p>
 
 ### 03 — Receitas e Despesas
 
-Apresenta a composição das receitas e despesas e o desempenho financeiro ao longo dos períodos.
+Composição das despesas e evolução do resultado financeiro.
 
-
-
-**Principais análises:**
-
-- Receita Total.
-- Despesas Totais.
-- Resultado Financeiro.
-- Índice de Despesas sobre Receitas.
-- Composição das Despesas por Conta.
-- Evolução do Resultado Financeiro por Quadrimestre.
-- Comparação entre receitas e despesas.
+<p align="center">
+  <img src="09_Portfolio/03_FinVERTEX_%20Receitas%20e%20Despesas.png" alt="03 — Receitas e Despesas" width="100%">
+</p>
 
 ### 04 — Orçado vs. Realizado
 
-Permite acompanhar o planejamento financeiro e avaliar os desvios entre valores orçados e realizados.
+Execução orçamentária, desvios e acompanhamento por centro de custo.
 
-
-
-**Principais análises:**
-
-- Valor Orçado.
-- Valor Realizado.
-- Desvio Orçamentário.
-- Percentual de Execução.
-- Orçado vs. Realizado por Quadrimestre.
-- Desvio Orçamentário por Centro de Custo.
-- Evolução do Percentual de Execução Orçamentária.
+<p align="center">
+  <img src="09_Portfolio/04_FinVERTEX_Orc%E2%95%A0%C2%BAado%20vs.%20Realizado.png" alt="04 — Orçado vs. Realizado" width="100%">
+</p>
 
 ### 05 — Custos e Centros de Custo
 
-Apresenta a distribuição dos custos e permite avaliar sua concentração entre os diferentes centros de custo e categorias financeiras.
+Distribuição, evolução e concentração dos custos.
 
-
-
-**Principais análises:**
-
-- Custos Totais.
-- Custo Médio por Centro de Custo.
-- Maior Custo por Centro.
-- Concentração de Custos.
-- Evolução dos Custos por Quadrimestre.
-- Custos Totais por Centro de Custo.
-- Composição dos Custos por Categoria de Conta.
+<p align="center">
+  <img src="09_Portfolio/05_FinVERTEX_Custos%20e%20Centros%20de%20Custo.png" alt="05 — Custos e Centros de Custo" width="100%">
+</p>
 
 ### 06 — Folha de Pagamento
 
-Apresenta uma visão analítica dos custos relacionados à remuneração, benefícios e encargos dos colaboradores.
+Composição e evolução dos custos com remuneração, benefícios e encargos.
 
+<p align="center">
+  <img src="09_Portfolio/06_FinVERTEX_%20Folha%20de%20Pagamento.png" alt="06 — Folha de Pagamento" width="100%">
+</p>
 
+## Indicadores e resultados observados
 
-**Principais análises:**
+Na base simulada e conforme as regras de negócio implementadas no relatório, foram observados:
 
-- Custo Total da Folha.
-- Custo Médio por Centro de Custo.
-- Custo Médio por Colaborador.
-- Variação da Folha.
-- Composição do Custo Total por Quadrimestre.
-- Evolução do Custo Total da Folha por Quadrimestre.
-- Intensidade do Custo da Folha por Mês.
+- **Receita realizada:** aproximadamente R$ 134,28 milhões.
+- **Despesas realizadas:** aproximadamente R$ 60,21 milhões.
+- **Resultado financeiro:** aproximadamente R$ 74,07 milhões.
+- **Índice de despesas sobre receitas:** 44,84%, classificado como **Moderado** pela regra adotada no dashboard.
+- **Saldo líquido das movimentações de caixa:** aproximadamente R$ 66,53 milhões, calculado como entradas menos saídas consideradas no fluxo.
 
----
+Resultado financeiro e saldo líquido de caixa são indicadores distintos, calculados a partir de fatos e critérios diferentes. Não devem ser tratados como valores equivalentes. Os resultados representam exclusivamente a base simulada utilizada no projeto.
 
-## Principais insights
+## Insights e documentação
 
-O projeto reúne indicadores que permitem acompanhar diferentes dimensões do desempenho financeiro.
+A pasta [`08_Insights`](08_Insights/) reúne sete documentos de análise:
 
-Entre os resultados observados na base simulada:
+1. [Insight Executivo](08_Insights/01_Insight_Executivo.md)
+2. [Insight de Fluxo de Caixa](08_Insights/02_Insight_Fluxo_de_Caixa.md)
+3. [Insight de Receitas e Despesas](08_Insights/03_Insight_Receitas_e_Despesas.md)
+4. [Insight de Orçado vs. Realizado](08_Insights/04_Insight_Orcado_vs_Realizado.md)
+5. [Insight de Custos e Centros de Custo](08_Insights/05_Insight_Custos_Centros_de_Custo.md)
+6. [Insight de Folha de Pagamento](08_Insights/06_Insight_Folha_de_Pagamento.md)
+7. [Recomendações Estratégicas](08_Insights/07_Recomendacoes_Estrategicas.md)
 
-- A receita total registrada foi de aproximadamente **R$ 134,28 milhões**.
-- As despesas realizadas totalizaram aproximadamente **R$ 60,21 milhões**.
-- O resultado financeiro foi de aproximadamente **R$ 74,07 milhões**.
-- O índice de despesas sobre receitas foi de **44,84%**, classificado como moderado conforme a regra de negócio adotada.
-- O fluxo de caixa permite investigar as movimentações de entradas e saídas, considerando os respectivos status de conciliação.
-- A análise orçamentária permite acompanhar a execução e identificar diferenças entre planejamento e realização.
-- A análise de custos evidencia a distribuição dos valores entre centros de custo e categorias de contas.
-- A folha de pagamento permite acompanhar a composição e a evolução dos custos com pessoal.
-
-Os resultados representam o comportamento observado na base simulada e devem ser interpretados considerando as regras de negócio e as características dos dados utilizados.
-
----
-
-## Conclusão e recomendações
-
-O FinVERTEX Analytics demonstra a aplicação integrada de conceitos de Engenharia de Dados, Data Quality, ETL, SQL, Inteligência Artificial e Business Intelligence em um contexto de gestão financeira.
-
-O projeto evidencia como a organização e a validação dos dados constituem a base para a construção de indicadores confiáveis e análises que apoiam decisões gerenciais.
-
-Como oportunidades de acompanhamento e evolução, recomenda-se:
-
-- Monitorar a evolução das receitas e despesas.
-- Avaliar a eficiência da estrutura de custos.
-- Acompanhar a execução orçamentária e seus desvios.
-- Investigar a evolução do fluxo de caixa.
-- Monitorar os custos por centro de custo.
-- Avaliar a evolução dos custos com pessoal.
-- Ampliar a automação do agente de Data Quality.
-- Evoluir a integração entre processamento, validação e disponibilização dos dados.
-
----
+A pasta [`07_Documentacao`](07_Documentacao/) contém os materiais técnicos e registros do desenvolvimento.
 
 ## Estrutura do repositório
 
 ```text
 FinVERTEX_Analytics/
-│
 ├── 01_Fonte_Dados/
 ├── 02_Data_Quality/
 ├── 03_ETL_Python/
 ├── 04_PostgreSQL/
 ├── 05_SQL_Analytics/
-│
 ├── 06_PowerBI/
 │   └── FinVERTEX_Analytics.pbix
-│
 ├── 07_Documentacao/
 ├── 08_Insights/
-│
-├── 03_Images/
-│   ├── Capa_FinVERTEX_Analytics.png
-│   ├── dashboard_01_visao_financeira_executiva.png
-│   ├── dashboard_02_fluxo_de_caixa.png
-│   ├── dashboard_03_receitas_despesas.png
-│   ├── dashboard_04_orcado_realizado.png
-│   ├── dashboard_05_custos_centros_custo.png
-│   └── dashboard_06_folha_pagamento.png
-│
+├── 09_Portfolio/
+│   ├── 00_FinVERTEX_Capa.png
+│   └── imagens das seis páginas do dashboard
 └── README.md
 ```
 
----
+## Como reproduzir
 
-## Como reproduzir o projeto
+1. Clone ou baixe este repositório.
+2. Consulte `01_Fonte_Dados` para conhecer os arquivos de origem.
+3. Explore `02_Data_Quality` e `03_ETL_Python` para acompanhar as validações e transformações.
+4. Utilize `04_PostgreSQL` e `05_SQL_Analytics` para configurar o banco e executar as consultas documentadas.
+5. Abra `06_PowerBI/FinVERTEX_Analytics.pbix` no Power BI Desktop.
+6. Ajuste as conexões e os caminhos das fontes de dados ao seu ambiente e atualize o relatório.
 
-1. Clone ou baixe o repositório.
-2. Consulte a pasta `01_Fonte_Dados` para conhecer as bases utilizadas.
-3. Acesse `02_Data_Quality` para verificar as rotinas de validação.
-4. Consulte `03_ETL_Python` para acompanhar os processos de preparação e transformação.
-5. Configure o PostgreSQL conforme a documentação disponível em `04_PostgreSQL`.
-6. Consulte as análises e consultas SQL em `05_SQL_Analytics`.
-7. Acesse a pasta `06_PowerBI`.
-8. Abra `FinVERTEX_Analytics.pbix` no Power BI Desktop.
-9. Verifique os caminhos das fontes de dados e atualize as conexões, caso necessário.
-10. Navegue pelas seis páginas do relatório.
+A reprodução pode exigir configuração local do PostgreSQL e dos caminhos das fontes. Credenciais, senhas e chaves de API não devem ser publicadas no repositório.
 
-Os dados utilizados são simulados e destinados a fins de estudo, demonstração técnica e portfólio. A reprodução poderá exigir ajustes nas conexões e nos caminhos das fontes de dados.
+## Conclusão
 
-**Segurança:** credenciais de banco de dados, senhas e chaves de API não devem ser publicadas no repositório.
-
----
+O FinVERTEX Analytics demonstra a integração de Data Quality, ETL, Python, IA aplicada, PostgreSQL, SQL, modelagem dimensional e Power BI em um cenário de análise financeira. O foco está em transformar dados organizados e validados em indicadores, análises e informações úteis à gestão.
 
 ## Autor
 
-**Renato Leone**
-Analista de Dados | Business Intelligence
-
-Projeto desenvolvido individualmente para demonstrar competências em análise financeira, qualidade de dados, automação com Python, integração com IA, PostgreSQL, SQL, modelagem analítica, DAX e desenvolvimento de dashboards no Power BI.
+**Renato Leone**  
+Data Analytics & Business Intelligence
 
 ### Competências demonstradas
 
-- Análise e interpretação de dados.
-- Data Profiling e Data Quality.
-- ETL com Python.
-- Inteligência Artificial aplicada à análise de dados.
-- Integração com Google Gemini.
-- SQL e PostgreSQL.
-- Modelagem de dados.
-- Power Query (M).
-- DAX e indicadores financeiros.
-- Business Intelligence.
-- Visualização e comunicação de insights.
+Data Profiling · Data Quality · ETL com Python · IA aplicada à análise de dados · PostgreSQL · SQL · Modelagem Dimensional · Power Query · DAX · Business Intelligence · Visualização de Dados.
 
 ### Portfólio e contato profissional
 
@@ -404,8 +205,12 @@ Projeto desenvolvido individualmente para demonstrar competências em análise f
 
 ---
 
+<div align="center">
+
 **FINVERTEX ANALYTICS**
 
 Dados · Qualidade · Inteligência · Decisões
 
 **RENATO LEONE | DATA ANALYTICS & BUSINESS INTELLIGENCE**
+
+</div>
