@@ -1,0 +1,201 @@
+﻿id_funcionario;nome_completo;email_corporativo;genero;data_admissao;data_demissao;cargo;departamento;cidade;uf;salario_base;status_funcionario
+1001;Henry Gabriel Alves;henry gabriel.alves.001@finvertex.example;Não informado;2021-09-30;;Analista de RH;Recursos Humanos;Curitiba;PR;9760.01;Ativo
+1002;Yan da Cruz;yan.da cruz.002@finvertex.example;Não informado;2023-09-25;2024-09-30;Analista Jurídico;Jurídico;Rio de Janeiro;RJ;7842.29;Desligado
+1003;Pietro Carvalho;pietro.carvalho.003@finvertex.example;M;2021-03-25;;Diretor Financeiro;Diretoria;Rio de Janeiro;RJ;29922.52;Ativo
+1004;Gustavo Rocha;gustavo.rocha.004@finvertex.example;F;2022-02-13;;Tech Lead;Tecnologia;Rio de Janeiro;RJ;5110.48;Ativo
+1005;Zoe Borges;zoe.borges.005@finvertex.example;F;2020-09-28;;Analista Administrativo;Administrativo;Curitiba;PR;8344.46;Ativo
+1006;Lavínia Andrade;lavínia.andrade.006@finvertex.example;F;2023-01-10;;Assistente de RH;Recursos Humanos;São Paulo;SP;8631.67;Ativo
+1007;Bento Borges;bento.borges.007@finvertex.example;Não informado;2019-11-19;;Analista de Customer Success;Customer Success;Belo Horizonte;MG;12294.05;Ativo
+1008;Pedro Henrique da Conceição;pedro henrique.da conceição.008@finvertex.example;F;2019-10-12;2021-07-19;Assistente de Operações;Operações;Campinas;SP;10844.15;Desligado
+1009;Mirella Pereira;mirella.pereira.009@finvertex.example;F;2022-02-12;;Desenvolvedor;Tecnologia;Belo Horizonte;MG;19179.88;Ativo
+1010;Benjamim Novais;benjamim.novais.010@finvertex.example;Não informado;2026-07-08;;Coordenador de Operações;Operações;Campinas;SP;12398.22;Ativo
+1011;Miguel Silva;miguel.silva.011@finvertex.example;M;2024-12-27;;Coordenador de RH;Recursos Humanos;Campinas;SP;4888.92;Ativo
+1012;Zoe Leão;zoe.leão.012@finvertex.example;F;2021-06-18;;Coordenador de Marketing;Marketing;Rio de Janeiro;RJ;13271.37;Ativo
+1013;Pedro Lucas Machado;pedro lucas.machado.013@finvertex.example;Não informado;2023-07-02;;Desenvolvedor;Tecnologia;Curitiba;PR;8586.71;Ativo
+1014;Agatha Abreu;agatha.abreu.014@finvertex.example;F;2023-06-09;;Analista de Operações;Operações;Belo Horizonte;MG;9607.09;Ativo
+1015;Liam Sampaio;liam.sampaio.015@finvertex.example;M;2025-04-18;;Analista de Marketing;Marketing;Campinas;SP;12217.15;Ativo
+1016;Lavínia Fernandes;lavínia.fernandes.016@finvertex.example;M;2021-06-17;;Diretor Comercial;Diretoria;Curitiba;PR;20351.64;Ativo
+1017;Agatha Cassiano;agatha.cassiano.017@finvertex.example;M;2020-09-18;;Analista de RH;Recursos Humanos;São Paulo;SP;10232.67;Ativo
+1018;Pedro Teixeira;pedro.teixeira.018@finvertex.example;M;2023-04-13;;Diretor Financeiro;Diretoria;Belo Horizonte;MG;25956.85;Ativo
+1019;Bárbara Caldeira;bárbara.caldeira.019@finvertex.example;Não informado;2026-08-24;;Analista Jurídico;Jurídico;São Paulo;SP;14761.41;Ativo
+1020;Francisco Garcia;francisco.garcia.020@finvertex.example;Não informado;2023-11-16;;Analista de Operações;Operações;Curitiba;PR;3530.83;Ativo
+1021;Gael Fogaça;gael.fogaça.021@finvertex.example;M;2024-09-10;;Coordenador de Marketing;Marketing;Campinas;SP;13575.7;Ativo
+1022;Catarina Pereira;catarina.pereira.022@finvertex.example;Não informado;2023-03-12;;Analista Jurídico;Jurídico;Campinas;SP;12011.93;Ativo
+1023;Vinícius Aparecida;vinícius.aparecida.023@finvertex.example;M;2019-03-21;;Assistente Financeiro;Financeiro;Belo Horizonte;MG;7865.38;Ativo
+1024;Maria Clara Nascimento;maria clara.nascimento.024@finvertex.example;M;2025-05-12;;Desenvolvedor;Tecnologia;Campinas;SP;6456.11;Ativo
+1025;Josué Garcia;josué.garcia.025@finvertex.example;F;2020-06-09;;Coordenador de RH;Recursos Humanos;Campinas;SP;11548.21;Ativo
+1026;Emanuel Novaes;emanuel.novaes.026@finvertex.example;Não informado;2023-09-30;;Coordenador de Marketing;Marketing;Rio de Janeiro;RJ;14218.05;Ativo
+1027;Ana Beatriz Pires;ana beatriz.pires.027@finvertex.example;Não informado;2026-07-14;;Analista de Sistemas;Tecnologia;Belo Horizonte;MG;12447.7;Ativo
+1028;Eloá Oliveira;eloá.oliveira.028@finvertex.example;F;2021-07-09;2022-02-17;Analista de Customer Success;Customer Success;Campinas;SP;9883.09;Desligado
+1029;Matheus Santos;matheus.santos.029@finvertex.example;F;2019-10-18;;Diretor Financeiro;Diretoria;São Paulo;SP;19000.85;Ativo
+1030;Davi Miguel Aparecida;davi miguel.aparecida.030@finvertex.example;F;2024-10-06;;Assistente Financeiro;Financeiro;São Paulo;SP;11292.55;Ativo
+1031;Rafael Vargas;rafael.vargas.031@finvertex.example;M;2025-06-18;;Analista Jurídico;Jurídico;Rio de Janeiro;RJ;15200.05;Ativo
+1032;Amanda Barros;amanda.barros.032@finvertex.example;M;2026-05-23;;Desenvolvedor;Tecnologia;São Paulo;SP;12200.84;Ativo
+1033;Ravi Lucca Brito;ravi lucca.brito.033@finvertex.example;F;2023-07-08;;Analista Financeiro;Financeiro;São Paulo;SP;12766.64;Ativo
+1034;Gabrielly da Mota;gabrielly.da mota.034@finvertex.example;M;2025-01-05;;Engenheiro de Dados;Tecnologia;Campinas;SP;12171.99;Ativo
+1035;Maria Porto;maria.porto.035@finvertex.example;F;2023-12-21;;Analista de Customer Success;Customer Success;São Paulo;SP;12559.67;Ativo
+1036;Emanuella Castro;emanuella.castro.036@finvertex.example;F;2021-08-26;;Analista Financeiro;Financeiro;São Paulo;SP;9239.18;Ativo
+1037;Ester Fogaça;ester.fogaça.037@finvertex.example;M;2023-04-02;2025-12-06;Assistente Administrativo;Administrativo;Campinas;SP;4856.42;Desligado
+1038;Otto Rios;otto.rios.038@finvertex.example;M;2026-06-04;;Especialista de Marketing;Marketing;Rio de Janeiro;RJ;5702.77;Ativo
+1039;Vitor Sampaio;vitor.sampaio.039@finvertex.example;Não informado;2025-01-29;2026-10-31;Desenvolvedor;Tecnologia;Rio de Janeiro;RJ;5971.81;Desligado
+1040;Diego Pereira;diego.pereira.040@finvertex.example;F;2024-09-11;2026-03-25;Analista de Customer Success;Customer Success;São Paulo;SP;4685.21;Desligado
+1041;Luigi Nascimento;luigi.nascimento.041@finvertex.example;Não informado;2025-05-22;;Tech Lead;Tecnologia;São Paulo;SP;15106.83;Ativo
+1042;Samuel Castro;samuel.castro.042@finvertex.example;F;2025-05-04;;Assistente de RH;Recursos Humanos;Rio de Janeiro;RJ;11445.0;Ativo
+1043;Maria Eduarda Garcia;maria eduarda.garcia.043@finvertex.example;M;2023-06-10;;Analista de Operações;Operações;Curitiba;PR;9632.26;Ativo
+1044;Vitor Hugo Porto;vitor hugo.porto.044@finvertex.example;F;2024-02-21;;Analista de Operações;Operações;São Paulo;SP;8848.44;Ativo
+1045;Pedro Lucas Rodrigues;pedro lucas.rodrigues.045@finvertex.example;F;2024-09-03;;Coordenador de RH;Recursos Humanos;Campinas;SP;11432.7;Ativo
+1046;Aylla Vargas;aylla.vargas.046@finvertex.example;M;2020-10-08;;Analista de Sistemas;Tecnologia;Curitiba;PR;14234.71;Ativo
+1047;Daniel da Conceição;daniel.da conceição.047@finvertex.example;Não informado;2019-02-02;;Diretor de Operações;Diretoria;Rio de Janeiro;RJ;27428.24;Ativo
+1048;Benício Dias;benício.dias.048@finvertex.example;F;2020-04-17;;Analista de RH;Recursos Humanos;Curitiba;PR;9810.54;Ativo
+1049;Isadora da Mata;isadora.da mata.049@finvertex.example;Não informado;2021-05-12;;Especialista de Marketing;Marketing;Rio de Janeiro;RJ;6239.57;Ativo
+1050;Davi Lucca Cunha;davi lucca.cunha.050@finvertex.example;F;2021-10-25;;Coordenador de Marketing;Marketing;Belo Horizonte;MG;13307.14;Ativo
+1051;Ana Vitória Cunha;ana vitória.cunha.051@finvertex.example;M;2019-01-15;;Analista Administrativo;Administrativo;São Paulo;SP;3915.74;Ativo
+1052;Melina Gonçalves;melina.gonçalves.052@finvertex.example;F;2025-03-09;;Gerente Comercial;Comercial;Belo Horizonte;MG;11852.7;Ativo
+1053;Maria Cecília Casa Grande;maria cecília.casa grande.053@finvertex.example;F;2025-02-12;2026-10-31;Coordenador de RH;Recursos Humanos;Campinas;SP;8451.33;Desligado
+1054;Vinícius Carvalho;vinícius.carvalho.054@finvertex.example;F;2022-06-16;;Assistente Administrativo;Administrativo;São Paulo;SP;9531.62;Ativo
+1055;Thales Souza;thales.souza.055@finvertex.example;M;2026-06-24;;Analista de Operações;Operações;Campinas;SP;10911.1;Ativo
+1056;Stephany da Luz;stephany.da luz.056@finvertex.example;F;2021-08-27;;Diretor de Operações;Diretoria;Campinas;SP;34595.5;Ativo
+1057;Liz Pacheco;liz.pacheco.057@finvertex.example;Não informado;2022-09-22;;Assistente Administrativo;Administrativo;Campinas;SP;5881.99;Ativo
+1058;Isabelly Fonseca;isabelly.fonseca.058@finvertex.example;M;2020-03-18;;Analista de Sistemas;Tecnologia;Campinas;SP;5658.32;Ativo
+1059;Pedro Lucas Carvalho;pedro lucas.carvalho.059@finvertex.example;F;2022-12-03;;Engenheiro de Dados;Tecnologia;Belo Horizonte;MG;18520.87;Ativo
+1060;Nicole Monteiro;nicole.monteiro.060@finvertex.example;M;2023-06-21;;Desenvolvedor;Tecnologia;Campinas;SP;19694.0;Ativo
+1061;Fernando Sá;fernando.sá.061@finvertex.example;M;2023-06-26;;Assistente de Operações;Operações;Rio de Janeiro;RJ;11514.78;Ativo
+1062;Calebe Camargo;calebe.camargo.062@finvertex.example;F;2021-01-01;;Analista Financeiro;Financeiro;Curitiba;PR;14815.77;Ativo
+1063;Leandro Pires;leandro.pires.063@finvertex.example;Não informado;2022-11-16;;Coordenador de RH;Recursos Humanos;Belo Horizonte;MG;6166.26;Ativo
+1064;Liam Vieira;liam.vieira.064@finvertex.example;M;2025-06-19;;Analista Jurídico;Jurídico;Belo Horizonte;MG;5577.02;Ativo
+1065;Lavínia Peixoto;lavínia.peixoto.065@finvertex.example;Não informado;2023-11-02;2026-10-31;Coordenador Financeiro;Financeiro;Curitiba;PR;14112.63;Desligado
+1066;Davi Lucas Gomes;davi lucas.gomes.066@finvertex.example;M;2022-05-15;;Assistente de Operações;Operações;São Paulo;SP;9835.48;Ativo
+1067;Giovanna Peixoto;giovanna.peixoto.067@finvertex.example;M;2025-03-20;;Coordenador Administrativo;Administrativo;Curitiba;PR;5943.12;Ativo
+1068;Maria Helena Moura;maria helena.moura.068@finvertex.example;M;2022-05-17;;Gerente Comercial;Comercial;Rio de Janeiro;RJ;15672.15;Ativo
+1069;Theodoro Novaes;theodoro.novaes.069@finvertex.example;M;2025-07-03;;Analista de Marketing;Marketing;Belo Horizonte;MG;7544.74;Ativo
+1070;Antônio Rodrigues;antônio.rodrigues.070@finvertex.example;Não informado;2024-04-22;;Analista de Customer Success;Customer Success;Rio de Janeiro;RJ;13598.32;Ativo
+1071;Ian Rodrigues;ian.rodrigues.071@finvertex.example;M;2022-03-08;;Gerente Comercial;Comercial;São Paulo;SP;12861.17;Ativo
+1072;Stella Sá;stella.sá.072@finvertex.example;F;2021-07-09;;Analista de RH;Recursos Humanos;Curitiba;PR;4752.51;Ativo
+1073;Vitor Vargas;vitor.vargas.073@finvertex.example;Não informado;2019-10-26;;Tech Lead;Tecnologia;Rio de Janeiro;RJ;20064.33;Ativo
+1074;Carolina Camargo;carolina.camargo.074@finvertex.example;F;2023-06-25;;Tech Lead;Tecnologia;Belo Horizonte;MG;16152.99;Ativo
+1075;Ana Beatriz Lopes;ana beatriz.lopes.075@finvertex.example;M;2020-12-21;;Assistente de RH;Recursos Humanos;Campinas;SP;9415.25;Ativo
+1076;Levi Marques;levi.marques.076@finvertex.example;Não informado;2024-02-13;;Coordenador Financeiro;Financeiro;São Paulo;SP;9004.0;Ativo
+1077;André Silveira;andré.silveira.077@finvertex.example;M;2025-11-14;;Advogado Corporativo;Jurídico;Belo Horizonte;MG;16596.26;Ativo
+1078;Vinicius Montenegro;vinicius.montenegro.078@finvertex.example;Não informado;2024-04-28;;Advogado Corporativo;Jurídico;Campinas;SP;14773.1;Ativo
+1079;Luiz Henrique Montenegro;luiz henrique.montenegro.079@finvertex.example;Não informado;2026-01-11;;Coordenador de Marketing;Marketing;Belo Horizonte;MG;8838.6;Ativo
+1080;Heitor Pires;heitor.pires.080@finvertex.example;F;2022-10-07;;Analista de Marketing;Marketing;Curitiba;PR;9941.67;Ativo
+1081;Ana Cecília Porto;ana cecília.porto.081@finvertex.example;M;2020-09-17;;Executivo de Contas;Comercial;Belo Horizonte;MG;4899.2;Ativo
+1082;Natália Pereira;natália.pereira.082@finvertex.example;Não informado;2023-08-31;2026-10-31;Assistente de Operações;Operações;Belo Horizonte;MG;7491.36;Desligado
+1083;Miguel Cassiano;miguel.cassiano.083@finvertex.example;M;2019-01-25;;Gerente Financeiro;Financeiro;Belo Horizonte;MG;7144.46;Ativo
+1084;Evelyn Teixeira;evelyn.teixeira.084@finvertex.example;M;2025-10-06;;Coordenador Administrativo;Administrativo;Rio de Janeiro;RJ;6417.61;Ativo
+1085;Lorenzo Nogueira;lorenzo.nogueira.085@finvertex.example;M;2023-05-12;;Analista Administrativo;Administrativo;São Paulo;SP;7753.99;Ativo
+1086;Sofia Abreu;sofia.abreu.086@finvertex.example;Não informado;2025-12-23;;Analista Comercial;Comercial;Campinas;SP;16697.0;Ativo
+1087;Ayla Mendonça;ayla.mendonça.087@finvertex.example;M;2019-12-10;;Diretor de Operações;Diretoria;São Paulo;SP;20306.89;Ativo
+1088;Arthur Miguel Camargo;arthur miguel.camargo.088@finvertex.example;M;2023-04-02;;Executivo de Contas;Comercial;Curitiba;PR;10365.79;Ativo
+1089;Eloá das Neves;eloá.das neves.089@finvertex.example;Não informado;2021-10-30;;Analista Administrativo;Administrativo;Belo Horizonte;MG;6292.15;Ativo
+1090;Rhavi Araújo;rhavi.araújo.090@finvertex.example;Não informado;2021-07-07;;Analista Jurídico;Jurídico;Curitiba;PR;15156.03;Ativo
+1091;Rodrigo Nunes;rodrigo.nunes.091@finvertex.example;F;2021-03-27;;Analista Financeiro;Financeiro;Campinas;SP;10758.96;Ativo
+1092;Emanuel Barros;emanuel.barros.092@finvertex.example;M;2025-04-29;;Analista Comercial;Comercial;São Paulo;SP;10510.48;Ativo
+1093;Maria Vitória Azevedo;maria vitória.azevedo.093@finvertex.example;F;2025-10-23;;Analista de Operações;Operações;Rio de Janeiro;RJ;10324.39;Ativo
+1094;Sophia Vargas;sophia.vargas.094@finvertex.example;M;2019-04-16;;Analista de Marketing;Marketing;Rio de Janeiro;RJ;10333.76;Ativo
+1095;José Cardoso;josé.cardoso.095@finvertex.example;F;2019-11-08;;Coordenador Administrativo;Administrativo;Campinas;SP;8814.0;Ativo
+1096;Maria Laura Novaes;maria laura.novaes.096@finvertex.example;Não informado;2025-09-25;;Coordenador de RH;Recursos Humanos;Curitiba;PR;10267.93;Ativo
+1097;Lucas da Luz;lucas.da luz.097@finvertex.example;Não informado;2023-10-21;;Assistente Financeiro;Financeiro;Rio de Janeiro;RJ;4572.32;Ativo
+1098;Sarah Pereira;sarah.pereira.098@finvertex.example;Não informado;2024-06-30;;Analista de Operações;Operações;Belo Horizonte;MG;12627.48;Ativo
+1099;Lavínia Cunha;lavínia.cunha.099@finvertex.example;M;2020-12-22;;Analista de Customer Success;Customer Success;Belo Horizonte;MG;13654.74;Ativo
+1100;Valentina Sá;valentina.sá.100@finvertex.example;M;2024-03-19;;Diretor de Operações;Diretoria;Belo Horizonte;MG;30427.45;Ativo
+1101;Murilo Silva;murilo.silva.101@finvertex.example;M;2022-02-16;;Analista de Operações;Operações;São Paulo;SP;5816.7;Ativo
+1102;Ana Lívia Guerra;ana lívia.guerra.102@finvertex.example;M;2022-10-09;2026-10-31;Diretor de Operações;Diretoria;Belo Horizonte;MG;23525.24;Desligado
+1103;Evelyn Macedo;evelyn.macedo.103@finvertex.example;M;2022-10-26;;Analista de Sistemas;Tecnologia;Curitiba;PR;15134.64;Ativo
+1104;Pietra Machado;pietra.machado.104@finvertex.example;Não informado;2021-02-21;2025-09-02;Analista Jurídico;Jurídico;Rio de Janeiro;RJ;10283.57;Desligado
+1105;Isaque da Cruz;isaque.da cruz.105@finvertex.example;F;2024-01-10;;Tech Lead;Tecnologia;Belo Horizonte;MG;6581.91;Ativo
+1106;Rael Azevedo;rael.azevedo.106@finvertex.example;Não informado;2022-06-08;;Coordenador Administrativo;Administrativo;Campinas;SP;5583.14;Ativo
+1107;Camila Almeida;camila.almeida.107@finvertex.example;M;2025-03-04;;Advogado Corporativo;Jurídico;Belo Horizonte;MG;14137.11;Ativo
+1108;Raul Pastor;raul.pastor.108@finvertex.example;Não informado;2020-05-09;;Especialista de Marketing;Marketing;Campinas;SP;7471.03;Ativo
+1109;Pedro Lucas Abreu;pedro lucas.abreu.109@finvertex.example;Não informado;2021-06-05;;Analista Jurídico;Jurídico;Campinas;SP;8594.5;Ativo
+1110;Diego Santos;diego.santos.110@finvertex.example;M;2021-03-06;;Advogado Corporativo;Jurídico;São Paulo;SP;9691.45;Ativo
+1111;Dante da Conceição;dante.da conceição.111@finvertex.example;Não informado;2019-07-06;;Coordenador Financeiro;Financeiro;Curitiba;PR;9997.62;Ativo
+1112;Davi Luiz Andrade;davi luiz.andrade.112@finvertex.example;M;2020-02-25;;Gerente Comercial;Comercial;Belo Horizonte;MG;12036.9;Ativo
+1113;Bianca Barbosa;bianca.barbosa.113@finvertex.example;M;2021-01-25;;Gerente de Customer Success;Customer Success;Curitiba;PR;6524.78;Ativo
+1114;Olívia da Costa;olívia.da costa.114@finvertex.example;F;2024-07-07;2026-10-31;Analista de RH;Recursos Humanos;Belo Horizonte;MG;9334.83;Desligado
+1115;Agatha Rios;agatha.rios.115@finvertex.example;M;2019-12-15;;Gerente Comercial;Comercial;Curitiba;PR;5658.32;Ativo
+1116;Maria Vitória Cunha;maria vitória.cunha.116@finvertex.example;M;2021-07-13;;Diretor de Operações;Diretoria;Rio de Janeiro;RJ;24466.43;Ativo
+1117;Valentina Cardoso;valentina.cardoso.117@finvertex.example;Não informado;2022-06-04;;Coordenador de Marketing;Marketing;Belo Horizonte;MG;4662.53;Ativo
+1118;Maria Júlia da Cruz;maria júlia.da cruz.118@finvertex.example;F;2021-12-19;;Analista de RH;Recursos Humanos;Campinas;SP;4834.99;Ativo
+1119;Maria Júlia Jesus;maria júlia.jesus.119@finvertex.example;M;2019-01-11;;Analista Jurídico;Jurídico;Campinas;SP;13961.82;Ativo
+1120;Mateus Brito;mateus.brito.120@finvertex.example;M;2022-03-26;;Analista de Marketing;Marketing;Campinas;SP;11732.86;Ativo
+1121;Gael Ribeiro;gael.ribeiro.121@finvertex.example;Não informado;2021-12-19;;Coordenador de RH;Recursos Humanos;Campinas;SP;8812.99;Ativo
+1122;Lorena Fogaça;lorena.fogaça.122@finvertex.example;M;2025-02-08;;Tech Lead;Tecnologia;São Paulo;SP;7532.82;Ativo
+1123;Lavínia Jesus;lavínia.jesus.123@finvertex.example;Não informado;2020-11-10;;Executivo de Contas;Comercial;São Paulo;SP;12330.62;Ativo
+1124;Maria Helena Siqueira;maria helena.siqueira.124@finvertex.example;M;2024-04-03;;Especialista de Marketing;Marketing;São Paulo;SP;11697.07;Ativo
+1125;Cauê Rocha;cauê.rocha.125@finvertex.example;Não informado;2019-11-26;;Advogado Corporativo;Jurídico;Belo Horizonte;MG;16562.5;Ativo
+1126;Gael Henrique Araújo;gael henrique.araújo.126@finvertex.example;Não informado;2019-04-16;;Assistente de Operações;Operações;Curitiba;PR;12638.16;Ativo
+1127;Isis Siqueira;isis.siqueira.127@finvertex.example;Não informado;2025-06-18;2026-10-31;Diretor Financeiro;Diretoria;Curitiba;PR;20978.24;Desligado
+1128;Camila Caldeira;camila.caldeira.128@finvertex.example;F;2025-07-25;;Gerente de Customer Success;Customer Success;Campinas;SP;12142.45;Ativo
+1129;Theo Correia;theo.correia.129@finvertex.example;F;2022-09-27;;Gerente de Customer Success;Customer Success;Belo Horizonte;MG;5046.0;Ativo
+1130;Mateus Nascimento;mateus.nascimento.130@finvertex.example;Não informado;2022-03-26;;Coordenador de Operações;Operações;Belo Horizonte;MG;7304.3;Ativo
+1131;Manuela Carvalho;manuela.carvalho.131@finvertex.example;M;2022-07-12;;Gerente Financeiro;Financeiro;São Paulo;SP;5098.32;Ativo
+1132;Lavínia Cirino;lavínia.cirino.132@finvertex.example;M;2024-03-07;;Analista Jurídico;Jurídico;Rio de Janeiro;RJ;7438.57;Ativo
+1133;Agatha Martins;agatha.martins.133@finvertex.example;M;2019-07-31;;Diretor Comercial;Diretoria;Belo Horizonte;MG;27336.73;Ativo
+1134;Theo Barbosa;theo.barbosa.134@finvertex.example;F;2019-04-29;;Gerente de Customer Success;Customer Success;São Paulo;SP;10088.72;Ativo
+1135;Luísa Novaes;luísa.novaes.135@finvertex.example;F;2019-02-26;;Analista Comercial;Comercial;Rio de Janeiro;RJ;5304.93;Ativo
+1136;Gael Henrique Aragão;gael henrique.aragão.136@finvertex.example;Não informado;2024-08-03;;Analista de Customer Success;Customer Success;Campinas;SP;6918.62;Ativo
+1137;Valentina Albuquerque;valentina.albuquerque.137@finvertex.example;M;2024-04-18;;Especialista de Marketing;Marketing;Belo Horizonte;MG;10063.92;Ativo
+1138;Francisco Sá;francisco.sá.138@finvertex.example;M;2022-02-05;;Engenheiro de Dados;Tecnologia;São Paulo;SP;19525.01;Ativo
+1139;Renan Cavalcante;renan.cavalcante.139@finvertex.example;Não informado;2022-03-04;;Advogado Corporativo;Jurídico;São Paulo;SP;15887.19;Ativo
+1140;Joana Mendonça;joana.mendonça.140@finvertex.example;Não informado;2025-01-15;;Analista de Customer Success;Customer Success;Belo Horizonte;MG;7324.4;Ativo
+1141;Maria Luísa Cunha;maria luísa.cunha.141@finvertex.example;M;2021-02-11;;Analista Administrativo;Administrativo;Curitiba;PR;4671.64;Ativo
+1142;Isadora Araújo;isadora.araújo.142@finvertex.example;M;2022-07-27;;Tech Lead;Tecnologia;São Paulo;SP;16988.87;Ativo
+1143;Lucas Garcia;lucas.garcia.143@finvertex.example;Não informado;2024-07-21;;Coordenador Administrativo;Administrativo;Campinas;SP;3883.72;Ativo
+1144;André Gomes;andré.gomes.144@finvertex.example;Não informado;2020-02-13;;Analista de Operações;Operações;Belo Horizonte;MG;7840.82;Ativo
+1145;Vinícius Viana;vinícius.viana.145@finvertex.example;M;2019-11-03;;Analista Comercial;Comercial;Campinas;SP;17568.85;Ativo
+1146;Maria da Paz;maria.da paz.146@finvertex.example;Não informado;2026-04-15;2026-10-31;Diretor de Operações;Diretoria;Belo Horizonte;MG;32489.8;Desligado
+1147;Lavínia Sampaio;lavínia.sampaio.147@finvertex.example;Não informado;2025-01-25;2025-12-11;Analista Administrativo;Administrativo;Belo Horizonte;MG;4643.39;Desligado
+1148;Mariah Cassiano;mariah.cassiano.148@finvertex.example;Não informado;2023-11-13;;Analista de Marketing;Marketing;São Paulo;SP;12364.07;Ativo
+1149;Mateus da Rocha;mateus.da rocha.149@finvertex.example;F;2022-05-11;;Assistente de RH;Recursos Humanos;Campinas;SP;3890.92;Ativo
+1150;Pedro Henrique Araújo;pedro henrique.araújo.150@finvertex.example;Não informado;2023-10-31;;Especialista de Marketing;Marketing;Curitiba;PR;9842.83;Ativo
+1151;Vitória Araújo;vitória.araújo.151@finvertex.example;Não informado;2019-11-20;;Executivo de Contas;Comercial;Campinas;SP;9355.62;Ativo
+1152;Ana Sophia Araújo;ana sophia.araújo.152@finvertex.example;M;2020-08-09;;Tech Lead;Tecnologia;Rio de Janeiro;RJ;15844.38;Ativo
+1153;Carlos Eduardo Pacheco;carlos eduardo.pacheco.153@finvertex.example;F;2024-03-20;;Coordenador de Marketing;Marketing;São Paulo;SP;11453.72;Ativo
+1154;Maria Liz Montenegro;maria liz.montenegro.154@finvertex.example;Não informado;2025-08-03;;Assistente de RH;Recursos Humanos;Curitiba;PR;11677.25;Ativo
+1155;Sofia Castro;sofia.castro.155@finvertex.example;F;2021-03-26;;Especialista de Marketing;Marketing;Curitiba;PR;13386.69;Ativo
+1156;Danilo Moraes;danilo.moraes.156@finvertex.example;M;2023-01-10;;Tech Lead;Tecnologia;Rio de Janeiro;RJ;21875.76;Ativo
+1157;Enrico Cirino;enrico.cirino.157@finvertex.example;Não informado;2019-02-03;;Gerente Financeiro;Financeiro;Curitiba;PR;11480.95;Ativo
+1158;Davi Miguel Peixoto;davi miguel.peixoto.158@finvertex.example;Não informado;2021-07-31;;Gerente Financeiro;Financeiro;Curitiba;PR;7745.99;Ativo
+1159;Davi Luiz Rocha;davi luiz.rocha.159@finvertex.example;F;2026-01-17;;Analista de Sistemas;Tecnologia;Campinas;SP;15666.79;Ativo
+1160;Ravy Guerra;ravy.guerra.160@finvertex.example;M;2025-07-01;;Especialista de Marketing;Marketing;São Paulo;SP;5445.53;Ativo
+1161;Isaque Nunes;isaque.nunes.161@finvertex.example;M;2020-12-20;;Assistente de Operações;Operações;Belo Horizonte;MG;10971.87;Ativo
+1162;Thales Pacheco;thales.pacheco.162@finvertex.example;M;2021-11-18;;Advogado Corporativo;Jurídico;Campinas;SP;17274.44;Ativo
+1163;Bruno Pinto;bruno.pinto.163@finvertex.example;Não informado;2019-11-05;;Analista de Operações;Operações;Belo Horizonte;MG;12681.75;Ativo
+1164;Enrico Leão;enrico.leão.164@finvertex.example;Não informado;2020-01-05;;Coordenador Administrativo;Administrativo;Curitiba;PR;3097.43;Ativo
+1165;Rebeca Dias;rebeca.dias.165@finvertex.example;M;2026-07-18;;Assistente de RH;Recursos Humanos;Curitiba;PR;5728.37;Ativo
+1166;Vicente Costela;vicente.costela.166@finvertex.example;M;2024-04-15;2026-10-31;Analista de Operações;Operações;Campinas;SP;12460.11;Desligado
+1167;Ana Sophia da Costa;ana sophia.da costa.167@finvertex.example;M;2026-02-15;;Diretor Financeiro;Diretoria;São Paulo;SP;33459.59;Ativo
+1168;Vinícius Gonçalves;vinícius.gonçalves.168@finvertex.example;M;2019-07-05;;Assistente Administrativo;Administrativo;Campinas;SP;5130.55;Ativo
+1169;João Rios;joão.rios.169@finvertex.example;Não informado;2025-01-10;;Analista de RH;Recursos Humanos;Campinas;SP;7355.97;Ativo
+1170;Ana Clara Marques;ana clara.marques.170@finvertex.example;M;2020-09-24;;Advogado Corporativo;Jurídico;Rio de Janeiro;RJ;13513.98;Ativo
+1171;Ana Vitória Sá;ana vitória.sá.171@finvertex.example;M;2019-05-15;;Diretor Comercial;Diretoria;Curitiba;PR;21693.58;Ativo
+1172;Diogo Albuquerque;diogo.albuquerque.172@finvertex.example;M;2023-02-13;;Analista de Sistemas;Tecnologia;São Paulo;SP;21623.32;Ativo
+1173;Maria Cecília Pinto;maria cecília.pinto.173@finvertex.example;M;2021-02-16;;Gerente Financeiro;Financeiro;Curitiba;PR;14428.92;Ativo
+1174;Guilherme Barbosa;guilherme.barbosa.174@finvertex.example;F;2026-03-13;;Coordenador de RH;Recursos Humanos;Campinas;SP;11754.29;Ativo
+1175;Stephany Cunha;stephany.cunha.175@finvertex.example;Não informado;2025-05-01;;Analista de Operações;Operações;Campinas;SP;11383.27;Ativo
+1176;Natália da Luz;natália.da luz.176@finvertex.example;Não informado;2022-09-07;;Engenheiro de Dados;Tecnologia;Campinas;SP;18406.94;Ativo
+1177;João Ferreira;joão.ferreira.177@finvertex.example;F;2020-06-16;;Assistente Financeiro;Financeiro;Campinas;SP;12743.35;Ativo
+1178;Davi Miguel da Cruz;davi miguel.da cruz.178@finvertex.example;M;2023-01-07;;Coordenador Financeiro;Financeiro;São Paulo;SP;6464.83;Ativo
+1179;Ester da Paz;ester.da paz.179@finvertex.example;F;2019-08-03;;Coordenador Financeiro;Financeiro;Curitiba;PR;8514.76;Ativo
+1180;Levi Macedo;levi.macedo.180@finvertex.example;Não informado;2023-01-22;;Assistente de RH;Recursos Humanos;Belo Horizonte;MG;4426.96;Ativo
+1181;Yasmin Santos;yasmin.santos.181@finvertex.example;F;2022-05-20;;Desenvolvedor;Tecnologia;Rio de Janeiro;RJ;21388.45;Ativo
+1182;Ana Julia Pimenta;ana julia.pimenta.182@finvertex.example;F;2020-03-18;;Gerente de Customer Success;Customer Success;Belo Horizonte;MG;13097.01;Ativo
+1183;Sarah Albuquerque;sarah.albuquerque.183@finvertex.example;Não informado;2020-08-30;2022-09-12;Assistente de RH;Recursos Humanos;Rio de Janeiro;RJ;8806.7;Desligado
+1184;Ana Clara Ribeiro;ana clara.ribeiro.184@finvertex.example;Não informado;2025-09-12;;Advogado Corporativo;Jurídico;Belo Horizonte;MG;10898.3;Ativo
+1185;Gustavo Henrique Carvalho;gustavo henrique.carvalho.185@finvertex.example;Não informado;2026-05-05;;Assistente Administrativo;Administrativo;São Paulo;SP;8382.74;Ativo
+1186;Vinícius Camargo;vinícius.camargo.186@finvertex.example;M;2021-07-24;;Tech Lead;Tecnologia;Belo Horizonte;MG;19066.13;Ativo
+1187;Heitor Souza;heitor.souza.187@finvertex.example;M;2022-07-04;;Coordenador Administrativo;Administrativo;São Paulo;SP;7655.76;Ativo
+1188;Leonardo da Mata;leonardo.da mata.188@finvertex.example;M;2019-10-02;;Gerente Comercial;Comercial;Belo Horizonte;MG;5195.1;Ativo
+1189;Alexia Pereira;alexia.pereira.189@finvertex.example;Não informado;2020-06-16;;Coordenador de RH;Recursos Humanos;Curitiba;PR;8484.95;Ativo
+1190;Otto Silva;otto.silva.190@finvertex.example;M;2023-08-10;;Advogado Corporativo;Jurídico;São Paulo;SP;13649.43;Ativo
+1191;Caroline Costela;caroline.costela.191@finvertex.example;F;2022-07-03;;Assistente Financeiro;Financeiro;Rio de Janeiro;RJ;10272.69;Ativo
+1192;Vinícius Montenegro;vinícius.montenegro.192@finvertex.example;Não informado;2021-07-07;;Gerente Comercial;Comercial;Belo Horizonte;MG;8901.6;Ativo
+1193;Mariana da Cunha;mariana.da cunha.193@finvertex.example;Não informado;2025-06-09;;Analista de Operações;Operações;Curitiba;PR;7576.57;Ativo
+1194;Cauã Borges;cauã.borges.194@finvertex.example;Não informado;2019-04-18;;Diretor de Operações;Diretoria;Rio de Janeiro;RJ;29183.13;Ativo
+1195;Lavínia da Mota;lavínia.da mota.195@finvertex.example;M;2022-01-24;;Analista de Marketing;Marketing;Campinas;SP;7398.83;Ativo
+1196;Caio Abreu;caio.abreu.196@finvertex.example;F;2020-08-09;;Analista de Operações;Operações;Campinas;SP;7307.45;Ativo
+1197;Brenda Vargas;brenda.vargas.197@finvertex.example;F;2021-05-31;;Analista Financeiro;Financeiro;Rio de Janeiro;RJ;8880.83;Ativo
+1198;José Pedro Porto;josé pedro.porto.198@finvertex.example;F;2025-05-13;;Coordenador de Operações;Operações;Curitiba;PR;11891.75;Ativo
+1199;Vinicius Castro;vinicius.castro.199@finvertex.example;M;2026-07-23;2026-10-31;Gerente Comercial;Comercial;São Paulo;SP;13267.14;Desligado
+1200;Luísa Novaes;luísa.novaes.200@finvertex.example;M;2022-01-23;;Diretor Comercial;Diretoria;Belo Horizonte;MG;26709.89;Ativo

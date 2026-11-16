@@ -1,0 +1,61 @@
+﻿id_fornecedor;razao_social;email_financeiro;telefone;cidade;uf;categoria_fornecedor;status_fornecedor
+3001;Moura Ltda.;financeiro.fornecedor001@fornecedor.finvertex.example;21 4247-4517;Campinas;SP;Cloud e Infraestrutura;Ativo
+3002;Casa Grande S.A. ME;financeiro.fornecedor002@fornecedor.finvertex.example;61 8516 0481;Belo Horizonte;MG;Material de Escritório;Ativo
+3003;Freitas S.A.;financeiro.fornecedor003@fornecedor.finvertex.example;+55 71 9651-3709;Curitiba;PR;Serviços Profissionais;Ativo
+3004;Pimenta S.A.;financeiro.fornecedor004@fornecedor.finvertex.example;+55 21 1746-1200;Rio de Janeiro;RJ;Serviços Profissionais;Ativo
+3005;Monteiro Ltda.;financeiro.fornecedor005@fornecedor.finvertex.example;+55 61 1382 6758;São Paulo;SP;Marketing;Inativo
+3006;Pastor ME;financeiro.fornecedor006@fornecedor.finvertex.example;+55 (021) 6179-6405;Campinas;SP;Serviços Profissionais;Ativo
+3007;Macedo Macedo S.A. ME;financeiro.fornecedor007@fornecedor.finvertex.example;21 1585 0643;Curitiba;PR;Software;Ativo
+3008;Marques S/A ME;financeiro.fornecedor008@fornecedor.finvertex.example;+55 11 9005-3293;Rio de Janeiro;RJ;Telecomunicações;Ativo
+3009;Teixeira - EI ME;financeiro.fornecedor009@fornecedor.finvertex.example;+55 (084) 9335-2904;Campinas;SP;Consultoria;Ativo
+3010;Cardoso Nogueira Ltda. Ltda.;financeiro.fornecedor010@fornecedor.finvertex.example;+55 (051) 1020-5395;Rio de Janeiro;RJ;Marketing;Ativo
+3011;Cavalcanti Ltda. Ltda.;financeiro.fornecedor011@fornecedor.finvertex.example;+55 (071) 2681 1775;Campinas;SP;Serviços Profissionais;Ativo
+3012;Machado - EI ME;financeiro.fornecedor012@fornecedor.finvertex.example;+55 21 9084-7007;Curitiba;PR;Software;Inativo
+3013;Lima Ltda.;financeiro.fornecedor013@fornecedor.finvertex.example;+55 51 7711 5921;Rio de Janeiro;RJ;Marketing;Ativo
+3014;da Mota Pinto e Filhos S.A.;financeiro.fornecedor014@fornecedor.finvertex.example;0800 856 9847;Curitiba;PR;Serviços Profissionais;Inativo
+3015;Brito ME;financeiro.fornecedor015@fornecedor.finvertex.example;+55 61 8367 3657;Belo Horizonte;MG;Marketing;Ativo
+3016;Leão ME;financeiro.fornecedor016@fornecedor.finvertex.example;+55 41 5654 5271;Curitiba;PR;Marketing;Inativo
+3017;Barros S/A ME;financeiro.fornecedor017@fornecedor.finvertex.example;(021) 1528-0988;Belo Horizonte;MG;Software;Ativo
+3018;Rios ME;financeiro.fornecedor018@fornecedor.finvertex.example;+55 71 6560 4945;Rio de Janeiro;RJ;Consultoria;Ativo
+3019;Oliveira - EI ME;financeiro.fornecedor019@fornecedor.finvertex.example;+55 11 2731-5851;Belo Horizonte;MG;Cloud e Infraestrutura;Ativo
+3020;Oliveira Ltda.;financeiro.fornecedor020@fornecedor.finvertex.example;+55 21 6899-8094;Rio de Janeiro;RJ;Telecomunicações;Ativo
+3021;Cirino Ltda. S.A.;financeiro.fornecedor021@fornecedor.finvertex.example;(041) 5502 2961;Campinas;SP;Facilities;Ativo
+3022;Sousa Porto S/A S.A.;financeiro.fornecedor022@fornecedor.finvertex.example;+55 31 8366 7525;Rio de Janeiro;RJ;Marketing;Ativo
+3023;Silveira ME;financeiro.fornecedor023@fornecedor.finvertex.example;(061) 9910 2290;Campinas;SP;Telecomunicações;Ativo
+3024;da Mata - ME ME;financeiro.fornecedor024@fornecedor.finvertex.example;(011) 7976-4381;Curitiba;PR;Marketing;Ativo
+3025;Lopes ME;financeiro.fornecedor025@fornecedor.finvertex.example;+55 61 4978 4036;Rio de Janeiro;RJ;Consultoria;Ativo
+3026;Abreu S.A. ME;financeiro.fornecedor026@fornecedor.finvertex.example;(031) 3244 5107;Rio de Janeiro;RJ;Software;Ativo
+3027;Cavalcanti Ltda.;financeiro.fornecedor027@fornecedor.finvertex.example;+55 81 6838 8516;São Paulo;SP;Cloud e Infraestrutura;Ativo
+3028;Lopes S/A ME;financeiro.fornecedor028@fornecedor.finvertex.example;(051) 1596-9664;Campinas;SP;Material de Escritório;Ativo
+3029;Guerra S/A ME;financeiro.fornecedor029@fornecedor.finvertex.example;(061) 2975 1613;Belo Horizonte;MG;Telecomunicações;Ativo
+3030;Pastor Ltda.;financeiro.fornecedor030@fornecedor.finvertex.example;71 8164 5352;Belo Horizonte;MG;Material de Escritório;Ativo
+3031;Moraes e Filhos Ltda.;financeiro.fornecedor031@fornecedor.finvertex.example;+55 61 8835 5231;Belo Horizonte;MG;Cloud e Infraestrutura;Ativo
+3032;da Cunha Costa S.A. S.A.;financeiro.fornecedor032@fornecedor.finvertex.example;0500-212-7799;Belo Horizonte;MG;Serviços Profissionais;Inativo
+3033;Rodrigues S.A.;financeiro.fornecedor033@fornecedor.finvertex.example;0300 955 2717;Campinas;SP;Consultoria;Ativo
+3034;Pires ME;financeiro.fornecedor034@fornecedor.finvertex.example;(031) 4905 8147;Curitiba;PR;Software;Inativo
+3035;Andrade S.A.;financeiro.fornecedor035@fornecedor.finvertex.example;+55 (081) 5411 9986;Campinas;SP;Marketing;Ativo
+3036;Pacheco S.A.;financeiro.fornecedor036@fornecedor.finvertex.example;81 0793-5978;Campinas;SP;Marketing;Ativo
+3037;Araújo Machado S/A Ltda.;financeiro.fornecedor037@fornecedor.finvertex.example;(081) 1820 3778;Belo Horizonte;MG;Consultoria;Ativo
+3038;Fonseca Freitas Ltda. S.A.;financeiro.fornecedor038@fornecedor.finvertex.example;51 6590 5151;São Paulo;SP;Material de Escritório;Inativo
+3039;da Paz Ltda.;financeiro.fornecedor039@fornecedor.finvertex.example;+55 61 9251-9254;Campinas;SP;Software;Ativo
+3040;Cardoso Ltda.;financeiro.fornecedor040@fornecedor.finvertex.example;0300-148-6528;Campinas;SP;Serviços Profissionais;Inativo
+3041;Ramos e Filhos S.A.;financeiro.fornecedor041@fornecedor.finvertex.example;(011) 8505-4235;Belo Horizonte;MG;Serviços Profissionais;Ativo
+3042;Correia S.A.;financeiro.fornecedor042@fornecedor.finvertex.example;+55 21 2214-1888;São Paulo;SP;Serviços Profissionais;Ativo
+3043;Ribeiro Ltda. ME;financeiro.fornecedor043@fornecedor.finvertex.example;0900-296-2229;Campinas;SP;Software;Ativo
+3044;Silveira Macedo S/A S.A.;financeiro.fornecedor044@fornecedor.finvertex.example;81 5379 4738;São Paulo;SP;Serviços Profissionais;Inativo
+3045;das Neves Viana - ME ME;financeiro.fornecedor045@fornecedor.finvertex.example;+55 (071) 5977-4688;Curitiba;PR;Cloud e Infraestrutura;Ativo
+3046;Castro Ltda.;financeiro.fornecedor046@fornecedor.finvertex.example;+55 (081) 9240-7581;Belo Horizonte;MG;Telecomunicações;Ativo
+3047;da Paz S/A S.A.;financeiro.fornecedor047@fornecedor.finvertex.example;+55 (031) 4782-6137;Belo Horizonte;MG;Cloud e Infraestrutura;Inativo
+3048;Alves ME;financeiro.fornecedor048@fornecedor.finvertex.example;84 0685 3615;São Paulo;SP;Facilities;Ativo
+3049;Alves Dias S/A S.A.;financeiro.fornecedor049@fornecedor.finvertex.example;(071) 2204 7277;Rio de Janeiro;RJ;Marketing;Inativo
+3050;Barros S/A S.A.;financeiro.fornecedor050@fornecedor.finvertex.example;+55 61 3289-8614;Rio de Janeiro;RJ;Telecomunicações;Ativo
+3051;da Rosa Campos S/A Ltda.;financeiro.fornecedor051@fornecedor.finvertex.example;+55 41 6971-1798;Campinas;SP;Material de Escritório;Ativo
+3052;Pires - EI ME;financeiro.fornecedor052@fornecedor.finvertex.example;0500 324 6095;Curitiba;PR;Software;Ativo
+3053;Oliveira Leão S.A. ME;financeiro.fornecedor053@fornecedor.finvertex.example;+55 21 8518 8888;Campinas;SP;Material de Escritório;Ativo
+3054;Gomes - ME Ltda.;financeiro.fornecedor054@fornecedor.finvertex.example;+55 (061) 6540 5153;São Paulo;SP;Consultoria;Ativo
+3055;Vargas - EI ME;financeiro.fornecedor055@fornecedor.finvertex.example;(071) 2058 5277;Belo Horizonte;MG;Serviços Profissionais;Ativo
+3056;Carvalho Azevedo e Filhos ME;financeiro.fornecedor056@fornecedor.finvertex.example;(051) 0430-3054;Rio de Janeiro;RJ;Consultoria;Ativo
+3057;Nogueira S.A.;financeiro.fornecedor057@fornecedor.finvertex.example;(071) 4034-5054;Rio de Janeiro;RJ;Consultoria;Inativo
+3058;Freitas - ME ME;financeiro.fornecedor058@fornecedor.finvertex.example;71 7652 7758;Rio de Janeiro;RJ;Telecomunicações;Ativo
+3059;Barros ME;financeiro.fornecedor059@fornecedor.finvertex.example;(011) 1692-8451;Rio de Janeiro;RJ;Serviços Profissionais;Ativo
+3060;Duarte e Filhos Ltda.;financeiro.fornecedor060@fornecedor.finvertex.example;(021) 4796 2757;Belo Horizonte;MG;Software;Ativo

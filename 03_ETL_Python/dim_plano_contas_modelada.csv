@@ -1,0 +1,24 @@
+﻿id_conta;nome_conta;tipo_conta;grupo_dre;natureza
+4001;Receita de Serviços;Receita;Receita Operacional;Credora
+4002;Receita de Licenciamento;Receita;Receita Operacional;Credora
+4003;Receita de Consultoria;Receita;Receita Operacional;Credora
+5001;Salários e Ordenados;Despesa;Pessoal;Devedora
+5002;Encargos Sociais;Despesa;Pessoal;Devedora
+5003;Benefícios;Despesa;Pessoal;Devedora
+5101;Cloud e Infraestrutura;Despesa;Tecnologia;Devedora
+5102;Licenças de Software;Despesa;Tecnologia;Devedora
+5201;Marketing e Publicidade;Despesa;Comercial e Marketing;Devedora
+5202;Comissões Comerciais;Despesa;Comercial e Marketing;Devedora
+5301;Aluguel e Condomínio;Despesa;Administrativo;Devedora
+5302;Energia e Utilidades;Despesa;Administrativo;Devedora
+5303;Telecomunicações;Despesa;Administrativo;Devedora
+5304;Material de Escritório;Despesa;Administrativo;Devedora
+5401;Consultoria e Serviços Profissionais;Despesa;Serviços Profissionais;Devedora
+5501;Tributos sobre Receita;Despesa;Tributos;Devedora
+5601;Viagens e Deslocamentos;Despesa;Operações;Devedora
+5602;Treinamento e Desenvolvimento;Despesa;Pessoal;Devedora
+5701;Depreciação e Amortização;Despesa;Não Caixa;Devedora
+5801;Despesas Financeiras;Despesa;Financeiro;Devedora
+5802;Receitas Financeiras;Receita;Receita Financeira;Credora
+5901;Investimentos em Equipamentos;Investimento;CAPEX;Devedora
+5902;Investimentos em Software;Investimento;CAPEX;Devedora

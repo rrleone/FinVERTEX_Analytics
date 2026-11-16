@@ -1,0 +1,11 @@
+﻿id_centro_custo;codigo_centro;nome_centro_custo;grupo_custo
+1;FIN;Financeiro;Financeiro
+2;RH;Recursos Humanos;Pessoal
+3;COM;Comercial;Comercial e Marketing
+4;TEC;Tecnologia;Tecnologia
+5;MKT;Marketing;Comercial e Marketing
+6;OPS;Operações;Operações
+7;ADM;Administrativo;Administrativo
+8;CS;Customer Success;Operações
+9;JUR;Jurídico;Serviços Profissionais
+10;DIR;Diretoria;Administrativo
