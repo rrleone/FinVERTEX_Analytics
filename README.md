@@ -203,7 +203,7 @@ Data Profiling · Data Quality · ETL com Python · IA aplicada à análise de d
 
 - **GitHub:** [github.com/rrleone](https://github.com/rrleone)
 - **Repositório:** [FinVERTEX Analytics](https://github.com/rrleone/FinVERTEX_Analytics)
-- **Portfólio:** [Renato Leone — Data Analytics & BI](https://sites.google.com/view/renatoleone/)
+- **Portfólio:** [Renato Leone — Data Analytics & BI](https://www.renatoleone.com.br)
 
 ---
 
