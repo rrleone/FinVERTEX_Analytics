@@ -87,7 +87,7 @@ As seis páginas do relatório estão apresentadas abaixo. Cada imagem correspon
 Visão consolidada de receitas, despesas, resultado financeiro, caixa e principais insights.
 
 <p align="center">
-  <img src="09_Portfolio/01_FinVERTEX_Visa%E2%95%A0%C3%A2o%20Financeira%20Executiva.png" alt="01 — Visão Financeira Executiva" width="100%">
+  <img src="09_Portfolio/01_FinVERTEX_Visao_Financeira_Executiva.png" alt="01 - Visão Financeira Executiva" width="100%">
 </p>
 
 ### 02 — Fluxo de Caixa
@@ -111,7 +111,7 @@ Composição das despesas e evolução do resultado financeiro.
 Execução orçamentária, desvios e acompanhamento por centro de custo.
 
 <p align="center">
-  <img src="09_Portfolio/04_FinVERTEX_Orc%E2%95%A0%C2%BAado%20vs.%20Realizado.png" alt="04 — Orçado vs. Realizado" width="100%">
+  <img src="09_Portfolio/04_FinVERTEX_Orcado%20vs.%20Realizado.png" alt="04 - Orçado vs. Realizado" width="100%">
 </p>
 
 ### 05 — Custos e Centros de Custo
